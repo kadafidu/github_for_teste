@@ -123,4 +123,4 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"
-django_herokusettings(locals())
+#django_herokusettings(locals())
